@@ -1,3 +1,3 @@
 export const database =
-  "mongodb+srv://n01568268:yHcxvd6nrrPhfmcP@quiz.cz7bzsp.mongodb.net/?retryWrites=true&w=majority&appName=Quiz";
+  "MongoDB API";
 export const secret = "secret";
